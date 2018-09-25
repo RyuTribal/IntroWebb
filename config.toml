@@ -36,12 +36,12 @@ theme = "coder"
 
         [[languages.en.menu.main]]
         name = "About"
-        weight = 1
+        weight = 1.0
         url = "/posts/about/"
 
         [[languages.en.menu.main]]
         name = "Contact Me"
-        weight = 2
+        weight = 2.0
         url = "/posts/contact/"
 
 
@@ -72,10 +72,10 @@ theme = "coder"
 
             [[languages.ru.menu.main]]
             name = "Профиль"
-            weight = 1
-            url = "/ru/about/"
+            weight = 1.0
+            url = "/ru/posts/about/"
 
             [[languages.ru.menu.main]]
             name = "Контакт"
-            weight = 2
-            url = "/ru/contact/"
+            weight = 2.0
+            url = "/ru/posts/contact/"
