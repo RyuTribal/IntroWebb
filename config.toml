@@ -35,14 +35,14 @@ theme = "coder"
         [languages.en.menu] 
 
         [[languages.en.menu.main]]
-        name = "About"
-        weight = 1.0
-        url = "/posts/about/"
+            name = "About"
+            weight = 1.0
+            url = "/posts/about/"
 
         [[languages.en.menu.main]]
-        name = "Contact Me"
-        weight = 2.0
-        url = "/posts/contact/"
+            name = "Contact Me"
+            weight = 2.0
+            url = "/posts/contact/"
 
 
     [languages.ru]
@@ -71,11 +71,11 @@ theme = "coder"
         [languages.ru.menu]
 
             [[languages.ru.menu.main]]
-            name = "Профиль"
-            weight = 1.0
-            url = "/ru/posts/about/"
+                name = "Профиль"
+                weight = 1.0
+                url = "/ru/posts/about/"
 
             [[languages.ru.menu.main]]
-            name = "Контакт"
-            weight = 2.0
-            url = "/ru/posts/contact/"
+                name = "Контакт"
+                weight = 2.0
+                url = "/ru/posts/contact/"
