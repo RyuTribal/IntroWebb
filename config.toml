@@ -38,3 +38,8 @@ theme = "coder"
     icon = "fas fa-palette fa-2x"
     weight = 3
     url = "https://www.cgtrader.com/ryutribal"
+# Menu links
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/posts/Introduction.md/"
