@@ -42,4 +42,4 @@ theme = "coder"
 [[menu.main]]
     name = "About"
     weight = 1
-    url = "/posts/about.md/"
+    url = "/posts/"
