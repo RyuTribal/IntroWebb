@@ -4,37 +4,15 @@ title = "Ivan Sedelkin"
 theme = "hugo-base-theme" 
 
 [params]
-    author = "Ivan Sedelkin"
-    info = "Software Developer and 3D Artist"
-    description = "Ivan Sedelkin's personal website"
-    avatarurl = "images/ivan.jpg"
+  description = "I <3 making web site"
+  mainIcon = "/img/hugo.png"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
-
-    footercontent = "Personal website for personal advertising. I don't sell products here"
-
-    hidecredits = false
-    hidecopyright = false
-
-    rtl = false
-
-    math = true
-    custom_css = ["css/custom.css"]
-
-# Social Links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/RyuTribal/"
+    title = "twitter"
+    url = "https://twitter.com/SBootstrap"
 [[params.social]]
-    name = "StackOverFlow"
-    icon = "fab fa-stack-overflow fa-2x"
-    weight = 2
-    url = "https://stackoverflow.com/users/10330648/ivan-sedelkin?tab=profile"
+    title = "github"
+    url = "https://github.com/IronSummitMedia/startbootstrap"
 [[params.social]]
-    name = "CGTrader"
-    icon = "fas fa-palette fa-2x"
-    weight = 3
-    url = "https://www.cgtrader.com/ryutribal"
+    title = "linkedin"
+    url = ""
