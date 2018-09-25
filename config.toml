@@ -7,7 +7,7 @@ theme = "coder"
     author = "Ivan Sedelkin"
     info = "Software Developer and 3D Artist"
     description = "Ivan Sedelkin's personal website"
-    avatarurl = "images/ivan.jpg"
+    avatarurl = "C:\T41819\PresentationWebbSite\themes\coder\static\images\ivan.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
