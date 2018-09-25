@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://fervent-williams-59ddf6.netlify.com"
 languageCode = "en-us"
 title = "Ivan Sedelkin"
 theme = "coder" 
