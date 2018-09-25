@@ -1,7 +1,7 @@
-baseURL = "https://fervent-williams-59ddf6.netlify.com"
+baseURL = "https://fervent-williams-59ddf6.netlify.com/"
 languageCode = "en-us"
 title = "Ivan Sedelkin"
-theme = "hugo-basic-theme" 
+theme = "hugo-base-theme" 
 
 [params]
   description = "I <3 making web site"
