@@ -6,6 +6,7 @@ theme = "hugo-base-theme"
 [params]
   description = "I <3 making web site"
   mainIcon = "/img/hugo.png"
+  custom_css = "/css/bootstrap-theme.css"
 
 [[params.social]]
     title = "twitter"
