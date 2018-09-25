@@ -73,9 +73,9 @@ theme = "coder"
             [[languages.ru.menu.main]]
             name = "Профиль"
             weight = 1.0
-            url = "/ru/posts/about-ru.md/"
+            url = "/ru/posts/about.ru/"
 
             [[languages.ru.menu.main]]
             name = "Контакт"
             weight = 2.0
-            url = "/ru/posts/contact-ru.md/"
+            url = "/ru/posts/contact.ru/"
