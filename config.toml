@@ -47,3 +47,78 @@ theme = "coder"
     name = "Contact Me"
     weight = 2
     url = "/posts/contact/"
+
+
+[languages]
+    [languages.en]
+        languagename = "English" 
+        title = "Ivan Sedelkin"
+
+        # You can configure the theme parameter for each language. 
+        [languages.en.params]
+            author = "Ivan Sedelkin"
+            info = "Software Developer and 3D Artist"
+            description = "Ivan Sedelkin's personal website"
+            avatarurl = "images/ivan.jpg"
+
+            favicon_32 = "/img/favicon-32x32.png"
+            favicon_16 = "/img/favicon-16x16.png"
+
+            footercontent = "Personal website for personal advertising. I don't sell products here"
+
+            hidecredits = false
+            hidecopyright = false
+
+            rtl = false
+
+            math = true
+            custom_css = ["css/custom.css"]
+
+
+        [languages.en.menu] 
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/posts/about/"
+
+        [[languages.en.menu.main]]
+        name = "Contact Me"
+        weight = 2
+        url = "/posts/contact/"
+
+
+    [languages.ru]
+        languagename = "Русский"
+        title = "Иван Седёлкин"
+
+        [languages.ru.params]
+            author = "Иван Седёлкин"
+            info = "Разработчик программного обеспечения, 3D-художник"
+            description = "Седёлкина персональный сайт"
+            avatarurl = "images/ivan.jpg"
+
+            favicon_32 = "/img/favicon-32x32.png"
+            favicon_16 = "/img/favicon-16x16.png"
+
+            footercontent = "Персональный сайт для личной рекламы. Продажа продуктав не случаться"
+
+            hidecredits = false
+            hidecopyright = false
+
+            rtl = false
+
+            math = true
+            custom_css = ["css/custom.css"]
+
+        [languages.ru.menu]
+
+            [[languages.ru.menu.main]]
+            name = "Профиль"
+            weight = 1
+            url = "/posts/about/"
+
+            [[languages.ru.menu.main]]
+            name = "Контакт"
+            weight = 2
+            url = "/posts/contact/"
