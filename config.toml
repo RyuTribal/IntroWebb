@@ -10,9 +10,11 @@ theme = "hugo-base-theme"
 [[params.social]]
     title = "twitter"
     url = "https://twitter.com/SBootstrap"
+
 [[params.social]]
     title = "github"
     url = "https://github.com/IronSummitMedia/startbootstrap"
 [[params.social]]
     title = "linkedin"
     url = ""
+    icon = "fab fa-github fa-2x"
