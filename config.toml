@@ -43,3 +43,7 @@ theme = "coder"
     name = "About"
     weight = 1
     url = "/posts/about/"
+[[menu.main]]
+    name = "Contact Me"
+    weight = 2
+    url = "/posts/contact/"
