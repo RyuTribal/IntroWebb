@@ -16,4 +16,4 @@ and a technical side. The struggle has always been to balance these two almost c
 ## Why you should hire me
 Very few are as passionate as me when it comes to the work I do. Motivation is never an issue as learning and improving is in my blood. Few people are as technically knowledgable and yet have that artistic side, always a learner but also a leader, always calm and sociable yet prepared to do whatever it takes to complete the task and that is something I believe every company needs, what you need.
 
-![My image](/images/IvanSuit.jpg)
+![My image](/images/ivan-suit.jpg)
