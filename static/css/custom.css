@@ -36,11 +36,7 @@ body{
 
 .fa-github{
     color: white;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    
 }
 
 .fa-github:hover{
@@ -49,11 +45,7 @@ body{
 
 .fa-stack-overflow{
     color: white;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    
 }
 
 .fa-stack-overflow:hover{
@@ -62,11 +54,7 @@ body{
 
 .fa-palette{
     color: white;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    
 }
 
 .fa-palette:hover{
@@ -102,27 +90,19 @@ body{
 
 h1{
     color: white;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    
 }
 
 h2{
     color: white;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
+    
 }
 
 .github{
     color : white;
 }
 .content{
-    background-image: url("/images/blurred.jpg");
+    background-image: url("/images/nightsky.jpg");
     margin-top : 0;
 }
 
