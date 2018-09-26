@@ -22,6 +22,10 @@ body{
     1px 1px 0 #000; 
 }
 
+#menu-toggle{
+    background-color: black;
+}
+
 
 .navigation{
     background-color:rgba(00, 51, 102, 0.8);
