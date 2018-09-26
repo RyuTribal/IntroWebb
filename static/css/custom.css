@@ -1,0 +1,89 @@
+html{
+    color: none;
+}
+
+body{
+    background-color: black;
+}
+
+
+.navigation{
+    background-color:rgba(00, 51, 102, 0.8);
+    color: white;
+    
+}
+.navigation a{
+    color: white;
+}
+
+.fa-github{
+    color: white;
+}
+
+.fa-github:hover{
+    color: lightblue;
+}
+
+.fa-stack-overflow{
+    color: white;
+}
+
+.fa-stack-overflow:hover{
+    color: lightblue;
+}
+
+.fa-palette{
+    color: white;
+}
+
+.fa-palette:hover{
+    color: lightblue;
+}
+
+.container post{
+    height: 100%;
+    position: absolute;
+}
+
+#aboutpost{
+    background-color: rgba(00, 51, 102, 0.8);
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 100%;
+    
+    
+    
+}
+
+
+
+#aboutpost p{
+    color: white;
+}
+
+#aboutpost ul{
+    color: white;
+} 
+
+
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.github{
+    color : white;
+}
+.content{
+    background-image: url("/images/blurred.jpg");
+    margin-top : 0;
+}
+
+footer{
+    background-color: black;
+    color : white;
+}
