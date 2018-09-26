@@ -5,7 +5,7 @@
     </a>
     <input type="checkbox" id="menu-toggle" />
     <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
-    <ul class="navigation-list">
+    <ul class="navigation-list" id="navigation">
       {{ with .Site.Menus.main}}
         {{ range sort . }}
           <li class="navigation-item">

@@ -10,6 +10,14 @@ body{
     padding-top: 5%;
 }
 
+.fa-bars{
+    color: white;
+}
+
+#navigation{
+    background-color: black;
+}
+
 
 .navigation{
     background-color:rgba(00, 51, 102, 0.8);
