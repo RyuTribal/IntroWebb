@@ -15,7 +15,11 @@ body{
 }
 
 #navigation{
-    background-color: rgba(00, 51, 102, 0.8);
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 }
 
 
