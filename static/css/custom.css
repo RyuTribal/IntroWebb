@@ -26,6 +26,8 @@ body{
 .navigation{
     background-color:rgba(00, 51, 102, 0.8);
     color: white;
+    position: fixed;
+    z-index: 1000;
     
 }
 .navigation a{
