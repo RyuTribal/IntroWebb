@@ -6,6 +6,10 @@ body{
     background-color: black;
 }
 
+.about{
+    padding-top: 5%;
+}
+
 
 .navigation{
     background-color:rgba(00, 51, 102, 0.8);
